@@ -1,0 +1,28 @@
+{
+  "name": "TEDZO SIR",
+  "version": "2.0.0",
+  "description": "Taurus whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./taurus-bot/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammed-usrbot/taurus-bot"
+  },
+  "keywords": [
+    "WhatsApp",
+    "bgm",
+    "Bot"
+  ],
+  "author": "AsenaDev / Yusuf Usta",
+  "developer": "Muhammed / @karthik-terror-boy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
+  },
+  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+  "dependencies": {
+    "raganork-bot": "1.4.2"
+  }
+}
