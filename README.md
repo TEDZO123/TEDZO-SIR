@@ -1,143 +1,122 @@
-
-<p align="center">
-TEDZO SIR
-
-##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
-</p>
-
-<div align="center">
-
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
 <div align="center">
- <p align="center">
-<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
-
-</p>
-       
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<img src=https://i.imgur.com/jL8OB0n.jpg>
+</p>
+  <p align="center">
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://i.imgur.com/jFULdh7.jpg"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-----
-
-<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
-<p align="center">
-<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
-</p>
-<h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
-<p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
-</p>
-  
-
-<p align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
-</p>
-
-
-##
-  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
-<p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
-</p>
-
-
-    
 ## Setup
-<div align="center">
+<div align="center"> 
 
-  ### Simple Method 
-__________________
+
+## Click Youtube logo to Watch full video and findout password in this video 👇
+
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+
+
+## Instagram  Follow ❤️
+
+https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
+
+
+  ### Simple Method
   
-#####
- 
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalser.git)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3E90awZ)
--------
-<br>
-<br >
-<div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/3oskv9U)
- 
- <div align="left">
   
- ##### IF REPL.IT NOT WORKING TRY TERMUX FOR QR SCANNING. JUST COPY THIS LINK BELOW IN TERMUX 
-
-```
-bash <(curl-L https://t.ly/U1co)
-```
-            
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+  
 ### The Hard Method
 ```js
 GET QR
-$ apt update
+$ apt install git
 $ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
-$ chmod +x *
+$ git clone https://github.com/Amal-ser/Amalser
+$ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node qr.js
+$ node Amalser.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
-$ chmod +x *
+$ git clone https://github.com/Amal-ser/Amalser
+$ cd Amalser
 $ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
+$ node Amalser.js
 ```
 
+----
 
+  <p align="center">
+  <a href="httsp://github.com/Amal-ser/Amalser">
+    
+<a href="https://github.com/Amal-ser/followers">
+<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/Amal-ser/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
-### Warning ⚠ ! 
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+  <div align="center">
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  </div>
+    
+### ⚠ Warning ⚠
+
 ```
-Due to Whatsapp bot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
-By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
-```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+Amalser_v2 or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
 
-## Developers 
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+If you need help
+you can contact 👇🏻👇🏻 
+```
+**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+
+## Developers
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
-----|----|----
-[TEDZO](https://github.com/muhammed-usrbot) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----|----
+[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
+    
 
-## Contributer 
-`TEDZO`
-        
-        
-## License 
+
+## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer 
+### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
