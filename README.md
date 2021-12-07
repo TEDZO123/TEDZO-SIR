@@ -29,17 +29,17 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
+
 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://replit.com/@TEDZO123/TEDZO-SIR)
+
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]
   
 ### The Hard Method
 ```js
@@ -104,19 +104,4 @@ you can contact 👇🏻👇🏻
 ```
 **[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
-## Developers
-  <div align="center">
-    
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-    
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+## 
