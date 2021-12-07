@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammed-usrbot/taurus-bot"
+    "url": "git+https://github.com/TEDZO123/TEDZO-SIR"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Muhammed / @karthik-terror-boy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
+    "url": "https://github.com/TEDZO123/TEDZO-SIR/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
